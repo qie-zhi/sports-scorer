@@ -1,0 +1,19 @@
+# Android SDK（超过 200MB，不入库）
+android-sdk/
+
+# JDK（超过 300MB，不入库）
+tools/
+
+# React Native / Node
+node_modules/
+
+# Android build
+*.apk
+*.aab
+.gradle/
+android/app/build/
+
+# 临时文件
+*.tmp
+*.zip
+*.7z
